@@ -49,6 +49,9 @@ A função fitness avalia cada indivíduo (solução) com base:
 
 Ao final, a melhor solução encontrada pelo algoritmo é exibida, mostrando os itens selecionados, o peso total, o valor total e o tempo total de carga.
 
+
+Ref -> https://www.kdnuggets.com/2023/01/knapsack-problem-genetic-programming-python.html
+
 ![Captura de Tela 2024-10-08 às 19 12 16](https://github.com/user-attachments/assets/4eb7e51f-2bc8-40ff-b321-f22626859dbe)
 
 
